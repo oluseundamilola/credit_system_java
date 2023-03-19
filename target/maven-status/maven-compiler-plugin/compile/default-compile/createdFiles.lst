@@ -1,0 +1,16 @@
+com\rest\HistoryRest.class
+com\rest\UserRest.class
+com\service\MySession.class
+com\config\SecureRest.class
+com\config\ConstraintViolationMapper.class
+com\entity\SenderHistory.class
+com\entity\AbstractHistory.class
+com\service\PersistenceService.class
+com\service\SecurityUtil.class
+com\config\DbConnection.class
+com\config\SecurityFilter.class
+com\entity\ReceiverHistory.class
+com\entity\User.class
+com\service\QueryService.class
+com\config\JAXRSConfig.class
+com\entity\History.class
